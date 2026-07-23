@@ -1,0 +1,6 @@
+# Local only
+docs/
+letters/
+_archive/
+*.docx
+*.pdf
